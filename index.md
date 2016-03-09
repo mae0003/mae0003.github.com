@@ -27,8 +27,6 @@ Java(Fx), JavaScript とか。
 ### My favorite movies  
 
 * ギルバートグレイプ
-![ギルバートグレイプ](/assets/image/posts/gilbertgrape.jpg)
-
 * ボビー
 * ニューシネマパラダイス  
 * シリアナ  

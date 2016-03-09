@@ -21,10 +21,7 @@ author :
   bio: mae0003
   email_md5: d7707780fbf43c0f625d3ee02e2d5a5b
 
-markdown: redcarpet
-redcarpet:
-  extensions: ["autolink","tables"]
-
+markdown: kramdown
 kramdown:
   input: GFM
 # The production_url is only used when full-domain names are needed
