@@ -9,6 +9,7 @@ tagline: Supporting tagline
 Java(Fx), JavaScript とか。  
 
 <br>
+
 ## 最近の投稿
 <hr class='section-line'>
 
@@ -23,7 +24,6 @@ Java(Fx), JavaScript とか。
 </ul>
 
 
-****
 ### My favorite movies  
 
 * ギルバートグレイプ

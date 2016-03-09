@@ -7,6 +7,7 @@ tagline: "Java, Serialize"
 {% include JB/setup %}
 
 ### シリアライズ/デシリアライズ  
+
 <hr class='section-line'>
 
 |名称|変換内容|  
@@ -16,14 +17,18 @@ tagline: "Java, Serialize"
 
 
 <br>
+
 ### クラスをシリアライズ可能にするには  
+
 <hr class='section-line'>
 Serializable インターフェースを実装する。  
 http://docs.oracle.com/javase/jp/8/docs/api/java/io/Serializable.html (Java8)  
 
 
 <br>
+
 ### 特殊なメソッド 3つ  
+
 <hr class='section-line'>
 
 いずれもそれぞれのケースで独自の実装を行ないたい場合に実装する。  
@@ -33,7 +38,9 @@ http://docs.oracle.com/javase/jp/8/docs/api/java/io/Serializable.html (Java8)
 1. void readObjectNoData()
 
 <br>
+
 ### writeObject() メソッド  
+
 <hr class='section-line'>
 * ```ObjectOutputStream.defaultWriteObject()``` はデフォルトのシリアライズ処理を行なう。
 * カスタムシリアライズを実装する場合に使用する。  
@@ -46,7 +53,9 @@ private void writeObject(ObjectOutputStream out) throws IOException {
 }
 ```
 <br>
+
 ### readObject() メソッド  
+
 <hr class='section-line'>
 * カスタムデシリアライズを実装する場合に使用する。  
 * ```ObjectInputStream.defaultReadObject()``` はデフォルトのデシリアライズ処理を行なう。

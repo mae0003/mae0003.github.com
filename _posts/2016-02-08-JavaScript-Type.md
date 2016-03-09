@@ -1,13 +1,16 @@
 ---
 layout: post
-title: JavaScript の型
+title: Type of JavaScript
 category: JavaScript
 tagline: "JavaScript, Type, 型"
 ---
 {% include JB/setup %}
 
-*****
+
 ### JavaScript の型
+
+<hr class='section-line'>
+
 * JavaScript は動的言語 = 変数に型がない
 
 |種類|型|typeof の返却値|説明|
@@ -19,13 +22,20 @@ tagline: "JavaScript, Type, 型"
 ||undefined 型|undefined|定義済グローバル変数(ECMAScript 5~ 代入不可)|
 |参照型|オブジェクト型|object||
 
-*****
+<br>
+
 ### == と ===
+
+<hr class='section-line'>
+
     == は暗黙の変換を行う  
     === は暗黙の変換を行わない  
 
-****
+<br>
+
 ### NaN
+
+<hr class='section-line'>
 
 > NaN == NaN は false  
 > NaN を調べるには ```isNaN()``` メソッドを使用します。  
@@ -35,8 +45,11 @@ js> isNaN(NaN)
 js> true
 ```
 
-****
+<br>
+
 ### 文字列 -> 数値変換
+
+<hr class='section-line'>
 
 Number, parseInt, parseFloat を使う。  
 
@@ -53,8 +66,11 @@ js> parseInt('100x', 2);  // 第2パラメータは奇数 (2進数)
 
 こう見ると Number のほうが安全のような気がする・・・  
 
-****
+<br>
+
 ### 数値 -> 文字列変換
+
+<hr class='section-line'>
 
 基本は ``` toString() ``` メソッドを使う。  
 
@@ -68,8 +84,12 @@ js> 100 + 'mae';
 100mae
 ```
 
-****
+<br>
+
 ### -> boolean への変換
+
+<hr class='section-line'>
+
 "!!" を使って変換します。(もしくは ```Boolean()``` メソッド)  
 
 ``` JavaScript

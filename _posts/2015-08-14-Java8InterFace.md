@@ -8,6 +8,7 @@ tags : [Java8, interface, default, static]
 {% include JB/setup %}
 
 ### interface に default, static メソッドが定義できるようになった
+
 <hr class='section-line'>
 
 ちょっと前から Java8 でインターフェースに static メソッドが書けるのは気づいていて、strategy の Factory とか作るとき、クラスに切り出すのめんどくさくなったら Static Factory メソッドに書こうかとひそかにもくろんでいたんだけど。

@@ -20,7 +20,9 @@ tagline: "JavaScript, Object"
 ```
 
 <br>
+
 ### function オブジェクト
+
 <hr class='section-line'>
 
 ``` function ``` で定義した関数は typeof の出力結果は "function" となる。
@@ -33,7 +35,9 @@ js> typeof mae
 
 
 <br>
+
 ### オブジェクトリテラルを利用した引数と戻り値
+
 <hr class='section-line'>
 
 #### オブジェクトリテラルを利用した引数 (+デフォルト引数)  
@@ -44,6 +48,7 @@ function incrementAge(mae) {
     return mae.age++;
 }
 ```
+
 ####  オブジェクトリテラルを利用した戻り値
 
 ``` JavaScript
@@ -53,7 +58,9 @@ function getTom() {
 ```
 
 <br>
+
 ### プロパティ, メソッドのアクセス
+
 <hr class='section-line'>
 
 ドット "." もしくは ブラケット "[]" 演算子
@@ -64,14 +71,18 @@ Math[this < 0 ? 'celling' : 'floor'](this)
 ```
 
 <br>
+
 ### プロパティ名・プロパティ値の列挙
+
 <hr class='section-line'>
 
 プロパティ名: `for in`  
 プロパティ値: `for each in`  
 
 <br>
+
 ### in 演算子
+
 <hr class='section-line'>
 
 オブジェクトにプロパティが存在するかどうかを調べる。

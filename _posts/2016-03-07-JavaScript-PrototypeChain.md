@@ -27,12 +27,14 @@ div.diagram-row {
 </style>
 
 ### プロトタイプチェーンによる継承
+
 <hr class='section-line'>
 
 ``` var concrete = new Base(); ```
 でベースオブジェクトのプロトタイプ継承を実装できる。
 
 <br>
+
 #### 1. 1つのチェーン
 
 <div class='uml-box'>
@@ -52,6 +54,7 @@ MaeBase
 ```
 
 <br>
+
 #### 2．複数のチェーン
 
 <div class='uml-box'>
@@ -73,7 +76,9 @@ this is MaeBase
 
 
 <br>
+
 ### 型の判定
+
 <hr class='section-line'>
 
 #### constructor プロパティによる判定
