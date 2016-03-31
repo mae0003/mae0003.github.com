@@ -219,12 +219,14 @@ public class Hoge {
 #### view
 {: style="color: #1b809e; margin-left: 15px"}
 
-``` Java
+<div>
+{% highlight java %}
 public class Hoge {
     private int count;
-    ・・・
+    // ・・・
 }
-```
+{% endhighlight %}
+</div>
 {: style="margin-left: 30px"}
 
 
