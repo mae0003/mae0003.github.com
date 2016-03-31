@@ -17,7 +17,7 @@ Java(Fx), JavaScript とか。
 {% for post in site.posts %}
     <li>
         <a href="{{ post.url }}">
-            {{ post.title }}
+            [{{ post.category }}] {{ post.title }}  
         </a>　({{ site.time | date_to_string }})
     </li>
 {% endfor %}
@@ -46,12 +46,3 @@ Java(Fx), JavaScript とか。
 <i class="fa fa-child fa-fw"></i>
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
-
-## Update Author Attributes
-
-{% highlight Java %}
-List<String> messages = new List<>();
-for(String message : messages) {
-    System.out.println(message);
-}
-{% endhighlight %}
