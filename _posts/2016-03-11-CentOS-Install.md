@@ -74,7 +74,6 @@ Fedora10 あたりから xorg.conf は使わなくなっているようで、 `x
 ![a](/assets/image/posts/20160311/fep.png)
 
 1. 入力ソースの横にある [+] ボタンをおして、″日本語（かな漢字）″ を追加します。
-![a](/assets/image/posts/20160311/fep1.png)
+![a](/assets/image/posts/20160311/fep2.png)
 
 1. すると [Windows] + [スペース] で入力を切り換えられるようになります。
- 
