@@ -11,6 +11,4 @@
 [gimmick:googlemaps(maptype: 'terrain', zoom: 9, marker: 'false')](Kikusui, Sapporo)
 
 ## 2.4 UML Diagram
-[gimmick:yuml]([User|+Forename+;Surname;+HashedPassword;-Salt|+Login();+Logout()])
-
 # 7. Appendix
