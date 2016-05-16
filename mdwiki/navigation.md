@@ -1,15 +1,19 @@
 [gimmick:Theme (inverse: true)](spacelab)
 
-[About]()
- * # Information
- * [このwikiについて](About/このwikiについて.md)
- - - - -
- * # Let's Try !
- * [MDWikiで出来ること](About/MDWikiで出来ること.md)
+# Brand name
 
-[Document]()
- * # How To
- * [設計書テンプレート](Document/document.md)
- - - - -
- * # テスト
- * [単体テスト]()
+[Menu Item 1]()
+
+  * # SubMenu Heading 1
+  * [SubMenu Item 1](subitem1.md)
+  * [SubMenu Item 2](subitem2.md)
+  - - - -
+  * # SubMenu Heading 2
+  * [SubMenu Item 3](subitem3.md)
+  - - - -
+  * # SubMenu Heading 3
+  * [SubMenu Item 3](subitem3.md)
+
+[Menu Item 2](item2.md)
+- - - -
+[Menu Item 3](item3.md)
