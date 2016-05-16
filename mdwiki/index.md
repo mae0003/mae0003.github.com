@@ -11,6 +11,11 @@
 ## 2.4 UML Diagram
 [gimmick:yuml]( [HttpContext]uses -.->[Response] )
 
+# 3. 共通ライブラリ
+## 3.1. ABC ライブラリ
+## 3.2. DEF ライブラリ
+# 4. 業務ライブラリ
+# 5. 永続化層ライブラリ
 # 6. AAAライブラリ
 # 7. Appendix
 
