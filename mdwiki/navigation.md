@@ -1,1 +1,1 @@
-[gimmick:Theme (inverse: true)](kingboard)
+[gimmick:Theme (inverse: true)](spacelab)
