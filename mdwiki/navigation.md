@@ -1,1 +1,1 @@
-[gimmick:Theme (inverse: true)](slate)
+[gimmick:Theme (inverse: true)](kingboard)
