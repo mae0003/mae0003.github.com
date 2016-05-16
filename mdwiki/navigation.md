@@ -1,6 +1,6 @@
 [gimmick:Theme (inverse: true)](spacelab)
 
-# Brand name
+# Document Sample Framework
 
 [Menu Item 1]()
 
