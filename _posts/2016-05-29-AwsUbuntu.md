@@ -6,7 +6,7 @@ tagline: "AWS, Ubuntu, GitBucket"
 ---
 {% include JB/setup %}
 
-# SpringBatch のメモっていうかリンク
+# AWSにUbuntu, Tomcat, GitBucket
 
 <hr class='section-line'>
 
@@ -19,7 +19,7 @@ tagline: "AWS, Ubuntu, GitBucket"
 
 #### ポート8080を開放しておく。
 インスタンスを表示して、セキュリティグループを編集してポート8080を開きます。  
- ![画像](/assets/image/posts/20160529/port.png)
+ ![画像](/assets/image/posts/20160529/port.PNG)
 
 #### WindowsにSSHクライアントインストール
 PuttyとかTeraTermとか見た目気に入らないし、タブも使えないのでmobaXtermってのを使いました。けどなんかおせぇです。  
@@ -70,7 +70,7 @@ cd /usr/local/webapps/gitbucket/
 sudo wget https://github.com/gitbucket/gitbucket/releases/download/4.0/gitbucket.war
 ```
 
-URLは [https://github.com/gitbucket/gitbucket/releases] (https://github.com/gitbucket/gitbucket/releases)で確認すること。
+URLは [https://github.com/gitbucket/gitbucket/releases](https://github.com/gitbucket/gitbucket/releases) で確認すること。
 
 #### インスタンスの起動
 ```
