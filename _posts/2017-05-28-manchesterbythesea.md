@@ -1,7 +1,7 @@
 ---
 layout: post
 category : Dialy
-title: 最初の投稿
+title: マンチェスター バイ ザ シー
 tagline: "Movie"
 tags : [Manchester]
 ---
