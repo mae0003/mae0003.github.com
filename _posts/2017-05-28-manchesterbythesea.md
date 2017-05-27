@@ -9,7 +9,7 @@ tags : [Manchester]
 
 ## Manchester by the sea - マンチェスター バイ ザ シー
 
-![画像](/assets/image/posts/20170528/mbts.png)   
+![画像](/assets/image/posts/20170528/mbts.jpg)   
 
 気になっていたマンチェスターバイザシー見に行ってきました。  
 映画館には８人程度。札幌でも大きな映画館では放映されていなくて小さな映画館で見ました。  
