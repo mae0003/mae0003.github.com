@@ -3,7 +3,7 @@ layout: post
 category : Dialy
 title: 最初の投稿
 tagline: "Movie"
-tags : [Manchester by the sea, マンチェスター バイ ザ シー]
+tags : [Manchester]
 ---
 {% include JB/setup %}
 
