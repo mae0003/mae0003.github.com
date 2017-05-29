@@ -18,7 +18,7 @@ Java(Fx), JavaScript とか。
     <li>
         <a href="{{ post.url }}">
             [{{ post.category }}] {{ post.title }}  
-        </a>　({{ site.time | date_to_string }})
+        </a>　({{ post.date | date_to_string }})
     </li>
 {% endfor %}
 </ul>
