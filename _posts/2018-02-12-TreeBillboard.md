@@ -1,15 +1,15 @@
 ---
 layout: post
 category : Movie
-title: Tree BillBords - スリー ビルボード
+title: Three BillBords - スリー ビルボード
 tagline: "Movie"
 tags : [Manchester]
 ---
 {% include JB/setup %}
 
-## Tree BillBords - スリー ビルボード
+## Three BillBords - スリー ビルボード
 
-![画像](/assets/image/posts/20180212/3billbords.jpg){: style="margin-left: 30px"}
+![画像](/assets/image/posts/20180212/3billborads.jpg){: style="margin-left: 30px"}
 
 この映画監督は知りませんでした。
 
@@ -27,4 +27,4 @@ tags : [Manchester]
 
 この映画を見る前にグランド・ブタペスト・ホテル（あってるかな？）の２回目の視聴をしてたんだけどその時初めてルーカス・ヘッジスがちょい役に出てることにきずきました。
 
-マンチェスターバイザシーとこの映画といい映画にでてますねー。
+この映画にも息子役で出演していたのですがマンチェスターバイザシーにも出てたしいい映画にでてますね。
