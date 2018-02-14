@@ -1,15 +1,15 @@
 ---
 layout: post
 category : Movie
-title: Three BillBords - スリー ビルボード
+title: Three BillBoards - スリー ビルボード
 tagline: "Movie"
 tags : [スリー ビルボード]
 ---
 {% include JB/setup %}
 
-## Three BillBords - スリー ビルボード
+## Three BillBoasrds - スリー ビルボード
 
-![画像](/assets/image/posts/20180212/3billborads.jpg){: style="margin-left: 30px"}
+![画像](/assets/image/posts/20180212/3billboards.jpg){: style="margin-left: 30px"}
 
 この映画監督は知りませんでした。
 
