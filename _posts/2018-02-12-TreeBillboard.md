@@ -3,7 +3,7 @@ layout: post
 category : Movie
 title: Three BillBords - スリー ビルボード
 tagline: "Movie"
-tags : [Manchester]
+tags : [スリー ビルボード]
 ---
 {% include JB/setup %}
 
