@@ -1,0 +1,12 @@
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: *
+Disallow: /books
+Disallow: /%23!/search
+Disallow: /search
+Disallow: /#!/userreg
+Disallow: /#!/resetpassword
+Disallow: /#!/error
+
+Sitemap: http://mae0003.github.io/sitemap_index.xml
