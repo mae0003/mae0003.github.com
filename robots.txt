@@ -3,5 +3,6 @@ Disallow: /
 
 User-agent: *
 Disallow: /%23!/feed
+Disallow: /for_alps
 
 Sitemap: http://mae0003.github.io/sitemap_index.xml
